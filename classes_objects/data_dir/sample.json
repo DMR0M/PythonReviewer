@@ -1,0 +1,22 @@
+[
+  {
+    "id_num": "18888",
+    "first_name": "Rommel Rudolf",
+    "middle_ini": "A.",
+    "last_name": "Dela Merced",
+    "age": "23",
+    "address": "Pasig City",
+    "hobbies": "Coding",
+    "birth_date": "08-07-1999"
+  },
+  {
+    "id_num": "17089",
+    "first_name": "Maricar",
+    "middle_ini": "I.",
+    "last_name": "Gamay",
+    "age": "23",
+    "address": "Taytay",
+    "hobbies": "Sleeping",
+    "birth_date": "01-12-2000"
+  }
+]
