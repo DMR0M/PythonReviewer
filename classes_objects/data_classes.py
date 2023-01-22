@@ -99,10 +99,6 @@ class ConfigureJson(Employee):
 def main():
     init_data = [{}]
 
-    # path = 'data_dir/sample.json'
-    # emp = ConfigureJson(path)
-    # emp.delete_entry('19778')
-
 
 if __name__ == '__main__':
     main()
